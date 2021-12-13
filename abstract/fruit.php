@@ -1,6 +1,6 @@
 <?php
  class Fruit extends Mango {
-     public function fruit(){
+     public function color(){
 
      }
  }
