@@ -1,6 +1,9 @@
 <?php
 
-include "shapesinterface.php";
+// include "shapeInterface.php";
+include "autoload.php";
+
+
 class Triangle implements shapeInterface{
     public function getArea(){
         echo "Triangle Class";
